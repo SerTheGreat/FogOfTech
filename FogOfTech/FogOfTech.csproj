@@ -58,11 +58,8 @@
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="KSPUtil">
-      <HintPath>..\..\Managed\KSPUtil.dll</HintPath>
-    </Reference>
     <Reference Include="System">
-      <HintPath>..\..\..\Games\Kerbal Space Program 1.0\KSP_Data\Managed\System.dll</HintPath>
+      <HintPath>..\..\Managed\System.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\Managed\UnityEngine.dll</HintPath>
